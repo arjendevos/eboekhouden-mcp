@@ -12,8 +12,8 @@ import (
 
 	"github.com/modelcontextprotocol/go-sdk/mcp"
 
-	"github.com/pointers-agency/eboekhouden-mcp/internal/eboekhouden"
-	"github.com/pointers-agency/eboekhouden-mcp/internal/spec"
+	"github.com/arjendevos/eboekhouden-mcp/internal/eboekhouden"
+	"github.com/arjendevos/eboekhouden-mcp/internal/spec"
 )
 
 // Options configures the server.

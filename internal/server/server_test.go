@@ -12,7 +12,7 @@ import (
 
 	"github.com/modelcontextprotocol/go-sdk/mcp"
 
-	"github.com/pointers-agency/eboekhouden-mcp/internal/eboekhouden"
+	"github.com/arjendevos/eboekhouden-mcp/internal/eboekhouden"
 )
 
 type request struct {

@@ -1,6 +1,6 @@
-module github.com/pointers-agency/eboekhouden-mcp
+module github.com/arjendevos/eboekhouden-mcp
 
-go 1.27.1
+go 1.25.0
 
 require github.com/modelcontextprotocol/go-sdk v1.8.0
 

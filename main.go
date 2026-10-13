@@ -15,8 +15,8 @@ import (
 
 	"github.com/modelcontextprotocol/go-sdk/mcp"
 
-	"github.com/pointers-agency/eboekhouden-mcp/internal/eboekhouden"
-	"github.com/pointers-agency/eboekhouden-mcp/internal/server"
+	"github.com/arjendevos/eboekhouden-mcp/internal/eboekhouden"
+	"github.com/arjendevos/eboekhouden-mcp/internal/server"
 )
 
 var version = "dev"
